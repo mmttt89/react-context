@@ -1,0 +1,14 @@
+.box-container{
+    background-color: brown;
+    min-height: 200px;
+}
+.li-wrapper{
+    display: flex;
+    flex-direction: row;
+    align-items: center
+}
+.li-wrapper li{
+    flex: 1;
+    transition: 0.2s linear;
+    display: flex;
+}

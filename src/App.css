@@ -1,0 +1,8 @@
+body{
+  box-sizing: border-box;
+  background-color: rgb(255, 255, 255);
+}
+.App-header {  
+  background-color:"#fff";
+  margin: 0 0.5%;    
+}

@@ -1,0 +1,30 @@
+{
+    "home": "Home",
+    "about": "About",
+    "inbox": "Inbox",
+    "logOut": "Logged-Out",
+    "logIn": "Loged-In",
+    "booksList": {
+        "empty": "Your book list is empty...",
+        "YOU_HAVE_CURRENTLY": "You have currently",
+        "AVAILABLE": "books available",
+        "TITLE":"Title",
+        "AUTHOR":"Author"
+    },
+    "ADD_BOOK": {
+        "INDEX": "Add book",
+        "BOOK_TITLE": "Book title",
+        "BOOK_AUTHOR": "Book author"
+    },
+    "THEME": {
+        "LIGHT": "Light",
+        "PURPLE": "Purple",
+        "DARK": "Dark",
+        "RED": "Red",
+        "BLUE": "Blue"
+    },
+    "LANG": {
+        "FARSI": "Farsi",
+        "ENGLISH": "English"
+    }
+}
