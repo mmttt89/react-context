@@ -5,10 +5,10 @@ it is a simple web application foucsing on hooks and specialy react-context;
 1) You can change theme: this feature use ThemeContext, and you can find it in "./src/context/ThemeContext"
 2) You can change language: this feature use LangContext ,just like ThemeContext, and you can find it in the same directory.
 	supported language: English and Persian	
-
+3) hooks has been used in contexts and other components use these contexts, 
 
 #### `to use and run this project:`
-in your cmd console, simply run:
+in your cmd console, simply run
 1) `yarn`
 	after installation of packages, then:
 2) `yarn start`
